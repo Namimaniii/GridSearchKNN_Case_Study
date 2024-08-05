@@ -1,0 +1,1 @@
+This case study is all about using grid searches to identify the optimal parameters for a machine learning algorithm. To complere this case study, I will use the Pima Indian diabetes dataset from Kaggle and KNN. 
